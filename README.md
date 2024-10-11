@@ -1,0 +1,2 @@
+# free
+Solution way
